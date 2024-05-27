@@ -1,6 +1,6 @@
 # lalagist 
 
-`lalagist` is a toy Go project to interact with [Ollama](https://ollama.com/) using Github's Gist.
+`lalagist` is a toy Go project to interact with [Ollama](https://ollama.com/) using Github's Gist. It allows you to interact with your Ollama instance remotely using Github's Gist's comment functionality. 
 
 ## Setup 
 
